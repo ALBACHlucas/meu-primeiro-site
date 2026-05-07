@@ -6,6 +6,11 @@ header{
     background-color: aliceblue;
 }
 
-header div img{
+#img-dado{
     width:300px;
+}
+.paragrafo{
+    text-align:center;
+    padding: 50px;
+    font-size: 20px;
 }
